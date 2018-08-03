@@ -9,6 +9,8 @@ import java.time.temporal.ChronoUnit;
 
 public class DateTimeTest {
 
+    // https://zhuanlan.zhihu.com/p/33754299
+
     // Java对日期，日历及时间的处理一直以来都饱受诟病：Date 为可修改 & SimpleDateFormat 为线程不安全
 
     // JDK8 新的时间日期库的最大的优点就在于它定义清楚了时间日期相关的一些概念。
